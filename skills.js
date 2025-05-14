@@ -1,10 +1,8 @@
-function calculateSkillLevel(skill) {
-  const skillLevels = {
-    beginner: 1,
-    intermediate: 2,
-    advanced: 3,
-    expert: 4
-  };
+function calculateNumbers(var1,var2){
+    console.log(var1 + var2);
 
-  return skillLevels[skill] || 0;
+
+
+
+
 }
